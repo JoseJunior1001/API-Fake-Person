@@ -15,7 +15,7 @@ app.get('/pessoa', (req,res) => {
 
     if (formato ==='sql') {
       const sql = lista.map( p => {
-        return `INSERT INTO pessoas (nome, cpf, nome,pai, nome_mae, data_nascimento, idade, endereco, bairro, cidade, estado, cep, naturalidade) VALUES ('${p.nomecompleto}', '${p.cpf}', '${p.nomepai}','${p.nomemae}', '${p.data_nascimento}','${p.idade}','${p.enderecofinal}','${p.bairro}','${p.cidade}','${p.estado}','${p.cep}','${p.naturalidade}');`;
+        return `('${p.nomecompleto}', '${p.cpf}', '${p.nomepai}','${p.nomemae}', '${p.data_nascimento}','${p.idade}','${p.enderecofinal}','${p.bairro}','${p.cidade}','${p.estado}','${p.cep}','${p.naturalidade}');`;
       }).join('\n');
 
       res.type('text/plain').send(sql);
@@ -26,4 +26,5 @@ app.get('/pessoa', (req,res) => {
 
 app.listen(port, () => {
   console.log(`Rodando em http://localhost:${port}`);
+
 });
