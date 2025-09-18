@@ -5,7 +5,6 @@ const enderecos = require('../data/enderecos.json');
 const nacionalidade = require('../data/nacionalidade.json');
 const sobrenomes = require('../data/sobrenomes.json');
 const cpf = require('gerar-cpf');
-const rg = require('gerar-rg');
 const { faker } = require('@faker-js/faker');
 
 function gerardtnascimento(idade){
@@ -30,13 +29,15 @@ const estado = endereco.estado;
 const cep = endereco.cep;
 const naturalidade = endereco.naturalidade;
 const enderecofinal = `${endereco.rua}, ${endereco.numero}`;
+let rg = Math.floor(Math.random() * 100000000) + 100000000;
+    rg = rg.toString();
 
 
 const tel = faker.phone.number('(DD) 9XXXX-XXXX');
 return {
     nomecompleto: `${nome} ${sobrenome}`,
     cpf: cpf(),
-    rg: rg(),
+    rg: rg,
     nomepai: `${nomepai} ${sobrenome}`,
     nomemae: `${nomemae} ${sobrenome}`,
     data_nascimento: gerardtnascimento(idade),
@@ -52,4 +53,5 @@ return {
 
 
 module.exports = gerarpessoa;
+
 
