@@ -1,0 +1,14 @@
+{
+    "name": "API fake person",
+    "version": "1.0.0",
+    "description": "API que gera pessoas fictícias e as envia em formato SQL ou JSON",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "dependencies": {
+        "@faker-js/faker": "^10.0.0",
+        "express": "^4.18.2",
+        "gerar-cpf": "^3.1.0"
+    }
+}

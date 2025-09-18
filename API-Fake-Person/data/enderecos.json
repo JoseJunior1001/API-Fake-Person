@@ -1,0 +1,2704 @@
+{
+  "enderecos": [
+    {
+      "rua": "Rua das Palmeiras",
+      "numero": 6003,
+      "bairro": "Campo Grande",
+      "cidade": "Belém",
+      "estado": "PA",
+      "cep": "56134-540",
+      "naturalidade": "Belém - PA"
+    },
+    {
+      "rua": "Rua Campos Sales",
+      "numero": 1855,
+      "bairro": "Vila Isabel",
+      "cidade": "Cuiabá",
+      "estado": "MT",
+      "cep": "86852-679",
+      "naturalidade": "Cuiabá - MT"
+    },
+    {
+      "rua": "Rua Tiradentes",
+      "numero": 5199,
+      "bairro": "Cidade Nova",
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "cep": "29538-932",
+      "naturalidade": "Rio de Janeiro - RJ"
+    },
+    {
+      "rua": "Rua das Orquídeas",
+      "numero": 9775,
+      "bairro": "Barra Funda",
+      "cidade": "Campo Grande",
+      "estado": "MS",
+      "cep": "45089-473",
+      "naturalidade": "Campo Grande - MS"
+    },
+    {
+      "rua": "Rua XV de Novembro",
+      "numero": 6301,
+      "bairro": "Praia Grande",
+      "cidade": "Natal",
+      "estado": "RN",
+      "cep": "47258-603",
+      "naturalidade": "Natal - RN"
+    },
+    {
+      "rua": "Rua Santo Antônio",
+      "numero": 5373,
+      "bairro": "Bela Vista",
+      "cidade": "Curitiba",
+      "estado": "PR",
+      "cep": "72040-253",
+      "naturalidade": "Curitiba - PR"
+    },
+    {
+      "rua": "Rua da Paz",
+      "numero": 6197,
+      "bairro": "Santa Cecília",
+      "cidade": "Belém",
+      "estado": "PA",
+      "cep": "69656-187",
+      "naturalidade": "Belém - PA"
+    },
+    {
+      "rua": "Rua das Andorinhas",
+      "numero": 2607,
+      "bairro": "Bela Vista",
+      "cidade": "Brasília",
+      "estado": "DF",
+      "cep": "26872-176",
+      "naturalidade": "Brasília - DF"
+    },
+    {
+      "rua": "Rua Santo Antônio",
+      "numero": 2116,
+      "bairro": "Jardim América",
+      "cidade": "Brasília",
+      "estado": "DF",
+      "cep": "27330-657",
+      "naturalidade": "Brasília - DF"
+    },
+    {
+      "rua": "Rua Santo Antônio",
+      "numero": 7598,
+      "bairro": "Santa Luzia",
+      "cidade": "Goiânia",
+      "estado": "GO",
+      "cep": "42339-709",
+      "naturalidade": "Goiânia - GO"
+    },
+    {
+      "rua": "Rua Alvorada",
+      "numero": 5759,
+      "bairro": "Pinheiros",
+      "cidade": "Cuiabá",
+      "estado": "MT",
+      "cep": "99434-970",
+      "naturalidade": "Cuiabá - MT"
+    },
+    {
+      "rua": "Rua Marechal Deodoro",
+      "numero": 1186,
+      "bairro": "Copacabana",
+      "cidade": "Maceió",
+      "estado": "AL",
+      "cep": "37483-664",
+      "naturalidade": "Maceió - AL"
+    },
+    {
+      "rua": "Rua Rio Branco",
+      "numero": 2955,
+      "bairro": "Campo Grande",
+      "cidade": "Manaus",
+      "estado": "AM",
+      "cep": "67473-650",
+      "naturalidade": "Manaus - AM"
+    },
+    {
+      "rua": "Rua da Paz",
+      "numero": 5407,
+      "bairro": "Cidade Nova",
+      "cidade": "Belo Horizonte",
+      "estado": "MG",
+      "cep": "56700-713",
+      "naturalidade": "Belo Horizonte - MG"
+    },
+    {
+      "rua": "Rua José Bonifácio",
+      "numero": 6089,
+      "bairro": "São José",
+      "cidade": "Brasília",
+      "estado": "DF",
+      "cep": "25563-570",
+      "naturalidade": "Brasília - DF"
+    },
+    {
+      "rua": "Rua do Sol",
+      "numero": 5069,
+      "bairro": "Copacabana",
+      "cidade": "Campo Grande",
+      "estado": "MS",
+      "cep": "15761-559",
+      "naturalidade": "Campo Grande - MS"
+    },
+    {
+      "rua": "Rua da Liberdade",
+      "numero": 3613,
+      "bairro": "Moema",
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "cep": "51715-932",
+      "naturalidade": "Rio de Janeiro - RJ"
+    },
+    {
+      "rua": "Rua São João",
+      "numero": 935,
+      "bairro": "Barra Funda",
+      "cidade": "Florianópolis",
+      "estado": "SC",
+      "cep": "65093-888",
+      "naturalidade": "Florianópolis - SC"
+    },
+    {
+      "rua": "Rua da Liberdade",
+      "numero": 7451,
+      "bairro": "Santa Luzia",
+      "cidade": "Florianópolis",
+      "estado": "SC",
+      "cep": "29963-501",
+      "naturalidade": "Florianópolis - SC"
+    },
+    {
+      "rua": "Rua Tiradentes",
+      "numero": 9349,
+      "bairro": "São Cristóvão",
+      "cidade": "Salvador",
+      "estado": "BA",
+      "cep": "95131-505",
+      "naturalidade": "Salvador - BA"
+    },
+    {
+      "rua": "Rua das Flores",
+      "numero": 8427,
+      "bairro": "Pinheiros",
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "cep": "98006-198",
+      "naturalidade": "Rio de Janeiro - RJ"
+    },
+    {
+      "rua": "Rua Santo Antônio",
+      "numero": 3673,
+      "bairro": "Jardim América",
+      "cidade": "Brasília",
+      "estado": "DF",
+      "cep": "29467-938",
+      "naturalidade": "Brasília - DF"
+    },
+    {
+      "rua": "Rua Dom Pedro II",
+      "numero": 9071,
+      "bairro": "Pinheiros",
+      "cidade": "Curitiba",
+      "estado": "PR",
+      "cep": "53296-267",
+      "naturalidade": "Curitiba - PR"
+    },
+    {
+      "rua": "Rua Rio Branco",
+      "numero": 8596,
+      "bairro": "Vila Isabel",
+      "cidade": "Manaus",
+      "estado": "AM",
+      "cep": "60427-987",
+      "naturalidade": "Manaus - AM"
+    },
+    {
+      "rua": "Rua Campos Sales",
+      "numero": 1927,
+      "bairro": "Itaim Bibi",
+      "cidade": "Natal",
+      "estado": "RN",
+      "cep": "25444-733",
+      "naturalidade": "Natal - RN"
+    },
+    {
+      "rua": "Rua das Palmeiras",
+      "numero": 6734,
+      "bairro": "Praia Grande",
+      "cidade": "Fortaleza",
+      "estado": "CE",
+      "cep": "41750-229",
+      "naturalidade": "Fortaleza - CE"
+    },
+    {
+      "rua": "Rua Marechal Deodoro",
+      "numero": 4686,
+      "bairro": "Jardim das Flores",
+      "cidade": "Campo Grande",
+      "estado": "MS",
+      "cep": "44372-775",
+      "naturalidade": "Campo Grande - MS"
+    },
+    {
+      "rua": "Rua José Bonifácio",
+      "numero": 4999,
+      "bairro": "Boa Vista",
+      "cidade": "Goiânia",
+      "estado": "GO",
+      "cep": "29718-638",
+      "naturalidade": "Goiânia - GO"
+    },
+    {
+      "rua": "Rua da Paz",
+      "numero": 9182,
+      "bairro": "Vila Isabel",
+      "cidade": "Belo Horizonte",
+      "estado": "MG",
+      "cep": "13832-350",
+      "naturalidade": "Belo Horizonte - MG"
+    },
+    {
+      "rua": "Rua Santo Antônio",
+      "numero": 6597,
+      "bairro": "Vila Nova",
+      "cidade": "Aracaju",
+      "estado": "SE",
+      "cep": "87565-735",
+      "naturalidade": "Aracaju - SE"
+    },
+    {
+      "rua": "Rua Alvorada",
+      "numero": 4235,
+      "bairro": "Praia Grande",
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "cep": "59552-882",
+      "naturalidade": "Rio de Janeiro - RJ"
+    },
+    {
+      "rua": "Rua XV de Novembro",
+      "numero": 5944,
+      "bairro": "Bela Vista",
+      "cidade": "Cuiabá",
+      "estado": "MT",
+      "cep": "58398-987",
+      "naturalidade": "Cuiabá - MT"
+    },
+    {
+      "rua": "Rua Santo Antônio",
+      "numero": 4515,
+      "bairro": "Praia Grande",
+      "cidade": "Natal",
+      "estado": "RN",
+      "cep": "94517-707",
+      "naturalidade": "Natal - RN"
+    },
+    {
+      "rua": "Rua Tiradentes",
+      "numero": 2950,
+      "bairro": "Praia Grande",
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "cep": "26490-579",
+      "naturalidade": "São Paulo - SP"
+    },
+    {
+      "rua": "Rua do Sol",
+      "numero": 4577,
+      "bairro": "São Cristóvão",
+      "cidade": "Curitiba",
+      "estado": "PR",
+      "cep": "33183-567",
+      "naturalidade": "Curitiba - PR"
+    },
+    {
+      "rua": "Rua do Comércio",
+      "numero": 8676,
+      "bairro": "Pinheiros",
+      "cidade": "Recife",
+      "estado": "PE",
+      "cep": "26954-586",
+      "naturalidade": "Recife - PE"
+    },
+    {
+      "rua": "Rua do Comércio",
+      "numero": 8817,
+      "bairro": "Vila Mariana",
+      "cidade": "Goiânia",
+      "estado": "GO",
+      "cep": "70096-639",
+      "naturalidade": "Goiânia - GO"
+    },
+    {
+      "rua": "Rua José Bonifácio",
+      "numero": 6102,
+      "bairro": "Moema",
+      "cidade": "Salvador",
+      "estado": "BA",
+      "cep": "20108-289",
+      "naturalidade": "Salvador - BA"
+    },
+    {
+      "rua": "Rua do Sol",
+      "numero": 8000,
+      "bairro": "Santa Luzia",
+      "cidade": "Maceió",
+      "estado": "AL",
+      "cep": "29064-573",
+      "naturalidade": "Maceió - AL"
+    },
+    {
+      "rua": "Rua das Orquídeas",
+      "numero": 1617,
+      "bairro": "Campo Grande",
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "cep": "15080-999",
+      "naturalidade": "São Paulo - SP"
+    },
+    {
+      "rua": "Rua das Acácias",
+      "numero": 1502,
+      "bairro": "Jardim América",
+      "cidade": "Brasília",
+      "estado": "DF",
+      "cep": "67702-146",
+      "naturalidade": "Brasília - DF"
+    },
+    {
+      "rua": "Rua Campos Sales",
+      "numero": 6026,
+      "bairro": "Praia Grande",
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "cep": "47078-528",
+      "naturalidade": "Rio de Janeiro - RJ"
+    },
+    {
+      "rua": "Rua XV de Novembro",
+      "numero": 932,
+      "bairro": "Bela Vista",
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "cep": "43832-984",
+      "naturalidade": "São Paulo - SP"
+    },
+    {
+      "rua": "Rua Santo Antônio",
+      "numero": 228,
+      "bairro": "Bela Vista",
+      "cidade": "Natal",
+      "estado": "RN",
+      "cep": "71951-125",
+      "naturalidade": "Natal - RN"
+    },
+    {
+      "rua": "Rua Dom Pedro II",
+      "numero": 6850,
+      "bairro": "Vila Nova",
+      "cidade": "João Pessoa",
+      "estado": "PB",
+      "cep": "18608-758",
+      "naturalidade": "João Pessoa - PB"
+    },
+    {
+      "rua": "Rua Campos Sales",
+      "numero": 8371,
+      "bairro": "Campo Grande",
+      "cidade": "Manaus",
+      "estado": "AM",
+      "cep": "10031-389",
+      "naturalidade": "Manaus - AM"
+    },
+    {
+      "rua": "Rua das Andorinhas",
+      "numero": 8956,
+      "bairro": "Bela Vista",
+      "cidade": "Maceió",
+      "estado": "AL",
+      "cep": "94879-116",
+      "naturalidade": "Maceió - AL"
+    },
+    {
+      "rua": "Rua da Liberdade",
+      "numero": 4628,
+      "bairro": "Boa Vista",
+      "cidade": "Cuiabá",
+      "estado": "MT",
+      "cep": "63396-991",
+      "naturalidade": "Cuiabá - MT"
+    },
+    {
+      "rua": "Rua das Acácias",
+      "numero": 2322,
+      "bairro": "Copacabana",
+      "cidade": "Fortaleza",
+      "estado": "CE",
+      "cep": "67179-438",
+      "naturalidade": "Fortaleza - CE"
+    },
+    {
+      "rua": "Rua das Palmeiras",
+      "numero": 2210,
+      "bairro": "Centro",
+      "cidade": "Campo Grande",
+      "estado": "MS",
+      "cep": "27952-415",
+      "naturalidade": "Campo Grande - MS"
+    },
+    {
+      "rua": "Rua Dom Pedro II",
+      "numero": 5507,
+      "bairro": "Santa Luzia",
+      "cidade": "João Pessoa",
+      "estado": "PB",
+      "cep": "79674-763",
+      "naturalidade": "João Pessoa - PB"
+    },
+    {
+      "rua": "Rua da Paz",
+      "numero": 3049,
+      "bairro": "Praia Grande",
+      "cidade": "Cuiabá",
+      "estado": "MT",
+      "cep": "44273-961",
+      "naturalidade": "Cuiabá - MT"
+    },
+    {
+      "rua": "Rua Marechal Deodoro",
+      "numero": 8783,
+      "bairro": "Copacabana",
+      "cidade": "Florianópolis",
+      "estado": "SC",
+      "cep": "86973-484",
+      "naturalidade": "Florianópolis - SC"
+    },
+    {
+      "rua": "Rua Campos Sales",
+      "numero": 2310,
+      "bairro": "Praia Grande",
+      "cidade": "Florianópolis",
+      "estado": "SC",
+      "cep": "73604-764",
+      "naturalidade": "Florianópolis - SC"
+    },
+    {
+      "rua": "Rua São João",
+      "numero": 1629,
+      "bairro": "Cidade Nova",
+      "cidade": "Manaus",
+      "estado": "AM",
+      "cep": "17624-641",
+      "naturalidade": "Manaus - AM"
+    },
+    {
+      "rua": "Rua da Paz",
+      "numero": 745,
+      "bairro": "Praia Grande",
+      "cidade": "Belém",
+      "estado": "PA",
+      "cep": "31946-363",
+      "naturalidade": "Belém - PA"
+    },
+    {
+      "rua": "Rua das Orquídeas",
+      "numero": 8918,
+      "bairro": "Praia Grande",
+      "cidade": "Natal",
+      "estado": "RN",
+      "cep": "45067-135",
+      "naturalidade": "Natal - RN"
+    },
+    {
+      "rua": "Rua Alvorada",
+      "numero": 9217,
+      "bairro": "Jardim das Flores",
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "cep": "66739-887",
+      "naturalidade": "Rio de Janeiro - RJ"
+    },
+    {
+      "rua": "Rua do Comércio",
+      "numero": 4705,
+      "bairro": "Praia Grande",
+      "cidade": "Cuiabá",
+      "estado": "MT",
+      "cep": "88097-557",
+      "naturalidade": "Cuiabá - MT"
+    },
+    {
+      "rua": "Rua das Flores",
+      "numero": 2006,
+      "bairro": "Vila Nova",
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "cep": "17285-612",
+      "naturalidade": "São Paulo - SP"
+    },
+    {
+      "rua": "Rua XV de Novembro",
+      "numero": 7214,
+      "bairro": "Cidade Nova",
+      "cidade": "Curitiba",
+      "estado": "PR",
+      "cep": "39645-626",
+      "naturalidade": "Curitiba - PR"
+    },
+    {
+      "rua": "Rua do Sol",
+      "numero": 4804,
+      "bairro": "Bela Vista",
+      "cidade": "Aracaju",
+      "estado": "SE",
+      "cep": "68631-855",
+      "naturalidade": "Aracaju - SE"
+    },
+    {
+      "rua": "Rua da Paz",
+      "numero": 8083,
+      "bairro": "Jardim América",
+      "cidade": "Belo Horizonte",
+      "estado": "MG",
+      "cep": "84513-978",
+      "naturalidade": "Belo Horizonte - MG"
+    },
+    {
+      "rua": "Rua da Paz",
+      "numero": 818,
+      "bairro": "Cidade Nova",
+      "cidade": "Florianópolis",
+      "estado": "SC",
+      "cep": "12523-915",
+      "naturalidade": "Florianópolis - SC"
+    },
+    {
+      "rua": "Rua Dom Pedro II",
+      "numero": 4394,
+      "bairro": "Cidade Nova",
+      "cidade": "Belém",
+      "estado": "PA",
+      "cep": "54842-888",
+      "naturalidade": "Belém - PA"
+    },
+    {
+      "rua": "Rua das Flores",
+      "numero": 5468,
+      "bairro": "Centro",
+      "cidade": "Campinas",
+      "estado": "SP",
+      "cep": "96066-667",
+      "naturalidade": "Campinas - SP"
+    },
+    {
+      "rua": "Rua Alvorada",
+      "numero": 1079,
+      "bairro": "Jardim América",
+      "cidade": "Belém",
+      "estado": "PA",
+      "cep": "24264-172",
+      "naturalidade": "Belém - PA"
+    },
+    {
+      "rua": "Rua das Flores",
+      "numero": 6703,
+      "bairro": "Pinheiros",
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "cep": "80578-710",
+      "naturalidade": "Rio de Janeiro - RJ"
+    },
+    {
+      "rua": "Rua Santo Antônio",
+      "numero": 6900,
+      "bairro": "Praia Grande",
+      "cidade": "Manaus",
+      "estado": "AM",
+      "cep": "20997-900",
+      "naturalidade": "Manaus - AM"
+    },
+    {
+      "rua": "Rua do Comércio",
+      "numero": 3808,
+      "bairro": "Vila Mariana",
+      "cidade": "Porto Alegre",
+      "estado": "RS",
+      "cep": "64673-835",
+      "naturalidade": "Porto Alegre - RS"
+    },
+    {
+      "rua": "Rua Marechal Deodoro",
+      "numero": 9436,
+      "bairro": "Vila Isabel",
+      "cidade": "Belo Horizonte",
+      "estado": "MG",
+      "cep": "40336-169",
+      "naturalidade": "Belo Horizonte - MG"
+    },
+    {
+      "rua": "Rua da Liberdade",
+      "numero": 4704,
+      "bairro": "Campo Grande",
+      "cidade": "Goiânia",
+      "estado": "GO",
+      "cep": "75682-972",
+      "naturalidade": "Goiânia - GO"
+    },
+    {
+      "rua": "Rua do Sol",
+      "numero": 4216,
+      "bairro": "Centro",
+      "cidade": "Aracaju",
+      "estado": "SE",
+      "cep": "56154-351",
+      "naturalidade": "Aracaju - SE"
+    },
+    {
+      "rua": "Rua das Andorinhas",
+      "numero": 2965,
+      "bairro": "Pinheiros",
+      "cidade": "Cuiabá",
+      "estado": "MT",
+      "cep": "83788-811",
+      "naturalidade": "Cuiabá - MT"
+    },
+    {
+      "rua": "Rua das Acácias",
+      "numero": 8783,
+      "bairro": "Praia Grande",
+      "cidade": "Curitiba",
+      "estado": "PR",
+      "cep": "72330-820",
+      "naturalidade": "Curitiba - PR"
+    },
+    {
+      "rua": "Rua das Orquídeas",
+      "numero": 6521,
+      "bairro": "Copacabana",
+      "cidade": "Salvador",
+      "estado": "BA",
+      "cep": "88327-444",
+      "naturalidade": "Salvador - BA"
+    },
+    {
+      "rua": "Rua da Liberdade",
+      "numero": 2090,
+      "bairro": "Jardim das Flores",
+      "cidade": "Belo Horizonte",
+      "estado": "MG",
+      "cep": "39388-712",
+      "naturalidade": "Belo Horizonte - MG"
+    },
+    {
+      "rua": "Rua Rio Branco",
+      "numero": 1615,
+      "bairro": "Vila Nova",
+      "cidade": "João Pessoa",
+      "estado": "PB",
+      "cep": "30955-537",
+      "naturalidade": "João Pessoa - PB"
+    },
+    {
+      "rua": "Rua das Flores",
+      "numero": 1067,
+      "bairro": "Itaim Bibi",
+      "cidade": "Fortaleza",
+      "estado": "CE",
+      "cep": "29951-879",
+      "naturalidade": "Fortaleza - CE"
+    },
+    {
+      "rua": "Rua Sete de Setembro",
+      "numero": 1606,
+      "bairro": "Vila Nova",
+      "cidade": "Belo Horizonte",
+      "estado": "MG",
+      "cep": "25593-331",
+      "naturalidade": "Belo Horizonte - MG"
+    },
+    {
+      "rua": "Rua Santo Antônio",
+      "numero": 1600,
+      "bairro": "Centro",
+      "cidade": "Salvador",
+      "estado": "BA",
+      "cep": "54595-673",
+      "naturalidade": "Salvador - BA"
+    },
+    {
+      "rua": "Rua Dom Pedro II",
+      "numero": 8586,
+      "bairro": "Jardim das Flores",
+      "cidade": "Porto Alegre",
+      "estado": "RS",
+      "cep": "65014-644",
+      "naturalidade": "Porto Alegre - RS"
+    },
+    {
+      "rua": "Rua Tiradentes",
+      "numero": 9604,
+      "bairro": "Santa Cecília",
+      "cidade": "Florianópolis",
+      "estado": "SC",
+      "cep": "67883-880",
+      "naturalidade": "Florianópolis - SC"
+    },
+    {
+      "rua": "Rua José Bonifácio",
+      "numero": 2553,
+      "bairro": "Centro",
+      "cidade": "Aracaju",
+      "estado": "SE",
+      "cep": "24785-182",
+      "naturalidade": "Aracaju - SE"
+    },
+    {
+      "rua": "Rua do Sol",
+      "numero": 9011,
+      "bairro": "Jardim das Flores",
+      "cidade": "Florianópolis",
+      "estado": "SC",
+      "cep": "26931-596",
+      "naturalidade": "Florianópolis - SC"
+    },
+    {
+      "rua": "Rua das Acácias",
+      "numero": 5162,
+      "bairro": "São Cristóvão",
+      "cidade": "Goiânia",
+      "estado": "GO",
+      "cep": "91200-191",
+      "naturalidade": "Goiânia - GO"
+    },
+    {
+      "rua": "Rua Tiradentes",
+      "numero": 1813,
+      "bairro": "Campo Grande",
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "cep": "16546-329",
+      "naturalidade": "Rio de Janeiro - RJ"
+    },
+    {
+      "rua": "Rua Tiradentes",
+      "numero": 833,
+      "bairro": "Barra Funda",
+      "cidade": "Campo Grande",
+      "estado": "MS",
+      "cep": "24747-341",
+      "naturalidade": "Campo Grande - MS"
+    },
+    {
+      "rua": "Rua da Liberdade",
+      "numero": 3860,
+      "bairro": "Moema",
+      "cidade": "Manaus",
+      "estado": "AM",
+      "cep": "83720-889",
+      "naturalidade": "Manaus - AM"
+    },
+    {
+      "rua": "Rua Tiradentes",
+      "numero": 9646,
+      "bairro": "Pinheiros",
+      "cidade": "Manaus",
+      "estado": "AM",
+      "cep": "88416-544",
+      "naturalidade": "Manaus - AM"
+    },
+    {
+      "rua": "Rua Tiradentes",
+      "numero": 5904,
+      "bairro": "Vila Nova",
+      "cidade": "Fortaleza",
+      "estado": "CE",
+      "cep": "57799-730",
+      "naturalidade": "Fortaleza - CE"
+    },
+    {
+      "rua": "Rua Santo Antônio",
+      "numero": 8068,
+      "bairro": "São José",
+      "cidade": "Belo Horizonte",
+      "estado": "MG",
+      "cep": "97175-342",
+      "naturalidade": "Belo Horizonte - MG"
+    },
+    {
+      "rua": "Rua XV de Novembro",
+      "numero": 2343,
+      "bairro": "Jardim das Flores",
+      "cidade": "João Pessoa",
+      "estado": "PB",
+      "cep": "43811-999",
+      "naturalidade": "João Pessoa - PB"
+    },
+    {
+      "rua": "Rua Marechal Deodoro",
+      "numero": 4421,
+      "bairro": "Jardim das Flores",
+      "cidade": "Campinas",
+      "estado": "SP",
+      "cep": "68571-412",
+      "naturalidade": "Campinas - SP"
+    },
+    {
+      "rua": "Rua das Palmeiras",
+      "numero": 9313,
+      "bairro": "Bela Vista",
+      "cidade": "Porto Alegre",
+      "estado": "RS",
+      "cep": "97825-343",
+      "naturalidade": "Porto Alegre - RS"
+    },
+    {
+      "rua": "Rua José Bonifácio",
+      "numero": 3811,
+      "bairro": "Santa Cecília",
+      "cidade": "Belo Horizonte",
+      "estado": "MG",
+      "cep": "56675-884",
+      "naturalidade": "Belo Horizonte - MG"
+    },
+    {
+      "rua": "Rua Rio Branco",
+      "numero": 3752,
+      "bairro": "Cidade Nova",
+      "cidade": "Natal",
+      "estado": "RN",
+      "cep": "85047-699",
+      "naturalidade": "Natal - RN"
+    },
+    {
+      "rua": "Rua Santo Antônio",
+      "numero": 6242,
+      "bairro": "Centro",
+      "cidade": "Brasília",
+      "estado": "DF",
+      "cep": "99344-672",
+      "naturalidade": "Brasília - DF"
+    },
+    {
+      "rua": "Rua das Orquídeas",
+      "numero": 1085,
+      "bairro": "Itaim Bibi",
+      "cidade": "Natal",
+      "estado": "RN",
+      "cep": "41215-280",
+      "naturalidade": "Natal - RN"
+    },
+    {
+      "rua": "Rua Dom Pedro II",
+      "numero": 6046,
+      "bairro": "Vila Nova",
+      "cidade": "Recife",
+      "estado": "PE",
+      "cep": "33743-485",
+      "naturalidade": "Recife - PE"
+    },
+    {
+      "rua": "Rua do Comércio",
+      "numero": 7451,
+      "bairro": "Copacabana",
+      "cidade": "Porto Alegre",
+      "estado": "RS",
+      "cep": "10664-899",
+      "naturalidade": "Porto Alegre - RS"
+    },
+    {
+      "rua": "Rua do Comércio",
+      "numero": 8763,
+      "bairro": "Campo Grande",
+      "cidade": "Porto Alegre",
+      "estado": "RS",
+      "cep": "55652-387",
+      "naturalidade": "Porto Alegre - RS"
+    },
+    {
+      "rua": "Rua XV de Novembro",
+      "numero": 1494,
+      "bairro": "Santa Luzia",
+      "cidade": "Belo Horizonte",
+      "estado": "MG",
+      "cep": "72058-508",
+      "naturalidade": "Belo Horizonte - MG"
+    },
+    {
+      "rua": "Rua do Sol",
+      "numero": 4086,
+      "bairro": "Vila Mariana",
+      "cidade": "Maceió",
+      "estado": "AL",
+      "cep": "59227-143",
+      "naturalidade": "Maceió - AL"
+    },
+    {
+      "rua": "Rua Sete de Setembro",
+      "numero": 2862,
+      "bairro": "Campo Grande",
+      "cidade": "Belo Horizonte",
+      "estado": "MG",
+      "cep": "55180-934",
+      "naturalidade": "Belo Horizonte - MG"
+    },
+    {
+      "rua": "Rua do Sol",
+      "numero": 4445,
+      "bairro": "Moema",
+      "cidade": "Belo Horizonte",
+      "estado": "MG",
+      "cep": "19933-663",
+      "naturalidade": "Belo Horizonte - MG"
+    },
+    {
+      "rua": "Rua das Orquídeas",
+      "numero": 4926,
+      "bairro": "Vila Nova",
+      "cidade": "Porto Alegre",
+      "estado": "RS",
+      "cep": "61588-534",
+      "naturalidade": "Porto Alegre - RS"
+    },
+    {
+      "rua": "Rua XV de Novembro",
+      "numero": 6228,
+      "bairro": "São José",
+      "cidade": "Campinas",
+      "estado": "SP",
+      "cep": "28382-202",
+      "naturalidade": "Campinas - SP"
+    },
+    {
+      "rua": "Rua José Bonifácio",
+      "numero": 3016,
+      "bairro": "Cidade Nova",
+      "cidade": "Salvador",
+      "estado": "BA",
+      "cep": "73259-666",
+      "naturalidade": "Salvador - BA"
+    },
+    {
+      "rua": "Rua Tiradentes",
+      "numero": 1322,
+      "bairro": "São Cristóvão",
+      "cidade": "Salvador",
+      "estado": "BA",
+      "cep": "44532-719",
+      "naturalidade": "Salvador - BA"
+    },
+    {
+      "rua": "Rua José Bonifácio",
+      "numero": 9932,
+      "bairro": "Santa Cecília",
+      "cidade": "Aracaju",
+      "estado": "SE",
+      "cep": "12111-404",
+      "naturalidade": "Aracaju - SE"
+    },
+    {
+      "rua": "Rua das Andorinhas",
+      "numero": 2873,
+      "bairro": "Santa Luzia",
+      "cidade": "Belém",
+      "estado": "PA",
+      "cep": "47068-893",
+      "naturalidade": "Belém - PA"
+    },
+    {
+      "rua": "Rua Tiradentes",
+      "numero": 4764,
+      "bairro": "Itaim Bibi",
+      "cidade": "Campinas",
+      "estado": "SP",
+      "cep": "67800-197",
+      "naturalidade": "Campinas - SP"
+    },
+    {
+      "rua": "Rua das Orquídeas",
+      "numero": 5878,
+      "bairro": "Jardim das Flores",
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "cep": "57628-519",
+      "naturalidade": "São Paulo - SP"
+    },
+    {
+      "rua": "Rua Santo Antônio",
+      "numero": 4920,
+      "bairro": "Santa Cecília",
+      "cidade": "Manaus",
+      "estado": "AM",
+      "cep": "90268-175",
+      "naturalidade": "Manaus - AM"
+    },
+    {
+      "rua": "Rua do Comércio",
+      "numero": 787,
+      "bairro": "Jardim América",
+      "cidade": "Porto Alegre",
+      "estado": "RS",
+      "cep": "27755-697",
+      "naturalidade": "Porto Alegre - RS"
+    },
+    {
+      "rua": "Rua das Orquídeas",
+      "numero": 157,
+      "bairro": "Centro",
+      "cidade": "Florianópolis",
+      "estado": "SC",
+      "cep": "79152-707",
+      "naturalidade": "Florianópolis - SC"
+    },
+    {
+      "rua": "Rua das Andorinhas",
+      "numero": 5099,
+      "bairro": "Boa Vista",
+      "cidade": "Florianópolis",
+      "estado": "SC",
+      "cep": "41434-473",
+      "naturalidade": "Florianópolis - SC"
+    },
+    {
+      "rua": "Rua XV de Novembro",
+      "numero": 4704,
+      "bairro": "Boa Vista",
+      "cidade": "Maceió",
+      "estado": "AL",
+      "cep": "27679-652",
+      "naturalidade": "Maceió - AL"
+    },
+    {
+      "rua": "Rua Alvorada",
+      "numero": 8908,
+      "bairro": "Cidade Nova",
+      "cidade": "Recife",
+      "estado": "PE",
+      "cep": "38328-865",
+      "naturalidade": "Recife - PE"
+    },
+    {
+      "rua": "Rua Santo Antônio",
+      "numero": 317,
+      "bairro": "Jardim América",
+      "cidade": "Porto Alegre",
+      "estado": "RS",
+      "cep": "91040-940",
+      "naturalidade": "Porto Alegre - RS"
+    },
+    {
+      "rua": "Rua Alvorada",
+      "numero": 7095,
+      "bairro": "Campo Grande",
+      "cidade": "Florianópolis",
+      "estado": "SC",
+      "cep": "85846-829",
+      "naturalidade": "Florianópolis - SC"
+    },
+    {
+      "rua": "Rua das Orquídeas",
+      "numero": 7825,
+      "bairro": "São Cristóvão",
+      "cidade": "Campinas",
+      "estado": "SP",
+      "cep": "92469-775",
+      "naturalidade": "Campinas - SP"
+    },
+    {
+      "rua": "Rua Sete de Setembro",
+      "numero": 5736,
+      "bairro": "Cidade Nova",
+      "cidade": "Campinas",
+      "estado": "SP",
+      "cep": "30489-324",
+      "naturalidade": "Campinas - SP"
+    },
+    {
+      "rua": "Rua da Liberdade",
+      "numero": 8245,
+      "bairro": "Copacabana",
+      "cidade": "Natal",
+      "estado": "RN",
+      "cep": "91236-742",
+      "naturalidade": "Natal - RN"
+    },
+    {
+      "rua": "Rua Rio Branco",
+      "numero": 9487,
+      "bairro": "Jardim das Flores",
+      "cidade": "Manaus",
+      "estado": "AM",
+      "cep": "41825-746",
+      "naturalidade": "Manaus - AM"
+    },
+    {
+      "rua": "Rua das Andorinhas",
+      "numero": 1440,
+      "bairro": "Jardim das Flores",
+      "cidade": "Campinas",
+      "estado": "SP",
+      "cep": "16135-399",
+      "naturalidade": "Campinas - SP"
+    },
+    {
+      "rua": "Rua das Acácias",
+      "numero": 1853,
+      "bairro": "Copacabana",
+      "cidade": "Natal",
+      "estado": "RN",
+      "cep": "90771-510",
+      "naturalidade": "Natal - RN"
+    },
+    {
+      "rua": "Rua Sete de Setembro",
+      "numero": 8505,
+      "bairro": "Vila Isabel",
+      "cidade": "João Pessoa",
+      "estado": "PB",
+      "cep": "90450-639",
+      "naturalidade": "João Pessoa - PB"
+    },
+    {
+      "rua": "Rua Marechal Deodoro",
+      "numero": 6962,
+      "bairro": "Vila Mariana",
+      "cidade": "Manaus",
+      "estado": "AM",
+      "cep": "35636-664",
+      "naturalidade": "Manaus - AM"
+    },
+    {
+      "rua": "Rua Santo Antônio",
+      "numero": 5552,
+      "bairro": "Itaim Bibi",
+      "cidade": "Goiânia",
+      "estado": "GO",
+      "cep": "48429-357",
+      "naturalidade": "Goiânia - GO"
+    },
+    {
+      "rua": "Rua Santo Antônio",
+      "numero": 7316,
+      "bairro": "Vila Mariana",
+      "cidade": "Florianópolis",
+      "estado": "SC",
+      "cep": "31687-242",
+      "naturalidade": "Florianópolis - SC"
+    },
+    {
+      "rua": "Rua Tiradentes",
+      "numero": 9990,
+      "bairro": "São José",
+      "cidade": "Cuiabá",
+      "estado": "MT",
+      "cep": "76614-564",
+      "naturalidade": "Cuiabá - MT"
+    },
+    {
+      "rua": "Rua São João",
+      "numero": 4375,
+      "bairro": "Jardim das Flores",
+      "cidade": "Goiânia",
+      "estado": "GO",
+      "cep": "65982-409",
+      "naturalidade": "Goiânia - GO"
+    },
+    {
+      "rua": "Rua Tiradentes",
+      "numero": 7903,
+      "bairro": "Copacabana",
+      "cidade": "Manaus",
+      "estado": "AM",
+      "cep": "66346-231",
+      "naturalidade": "Manaus - AM"
+    },
+    {
+      "rua": "Rua Sete de Setembro",
+      "numero": 7771,
+      "bairro": "Boa Vista",
+      "cidade": "Salvador",
+      "estado": "BA",
+      "cep": "96672-709",
+      "naturalidade": "Salvador - BA"
+    },
+    {
+      "rua": "Rua das Palmeiras",
+      "numero": 4523,
+      "bairro": "Copacabana",
+      "cidade": "Porto Alegre",
+      "estado": "RS",
+      "cep": "78738-908",
+      "naturalidade": "Porto Alegre - RS"
+    },
+    {
+      "rua": "Rua das Palmeiras",
+      "numero": 4881,
+      "bairro": "Santa Cecília",
+      "cidade": "Salvador",
+      "estado": "BA",
+      "cep": "91271-889",
+      "naturalidade": "Salvador - BA"
+    },
+    {
+      "rua": "Rua Campos Sales",
+      "numero": 5858,
+      "bairro": "São Cristóvão",
+      "cidade": "Maceió",
+      "estado": "AL",
+      "cep": "27952-641",
+      "naturalidade": "Maceió - AL"
+    },
+    {
+      "rua": "Rua das Orquídeas",
+      "numero": 1354,
+      "bairro": "Jardim América",
+      "cidade": "Manaus",
+      "estado": "AM",
+      "cep": "79819-619",
+      "naturalidade": "Manaus - AM"
+    },
+    {
+      "rua": "Rua Campos Sales",
+      "numero": 1832,
+      "bairro": "Boa Vista",
+      "cidade": "Fortaleza",
+      "estado": "CE",
+      "cep": "19555-808",
+      "naturalidade": "Fortaleza - CE"
+    },
+    {
+      "rua": "Rua das Andorinhas",
+      "numero": 7969,
+      "bairro": "Bela Vista",
+      "cidade": "Brasília",
+      "estado": "DF",
+      "cep": "35645-840",
+      "naturalidade": "Brasília - DF"
+    },
+    {
+      "rua": "Rua do Comércio",
+      "numero": 1599,
+      "bairro": "Santa Cecília",
+      "cidade": "Manaus",
+      "estado": "AM",
+      "cep": "78485-342",
+      "naturalidade": "Manaus - AM"
+    },
+    {
+      "rua": "Rua Sete de Setembro",
+      "numero": 2466,
+      "bairro": "Santa Luzia",
+      "cidade": "Salvador",
+      "estado": "BA",
+      "cep": "68058-708",
+      "naturalidade": "Salvador - BA"
+    },
+    {
+      "rua": "Rua do Sol",
+      "numero": 4272,
+      "bairro": "Centro",
+      "cidade": "Cuiabá",
+      "estado": "MT",
+      "cep": "35726-708",
+      "naturalidade": "Cuiabá - MT"
+    },
+    {
+      "rua": "Rua XV de Novembro",
+      "numero": 2044,
+      "bairro": "Vila Isabel",
+      "cidade": "Salvador",
+      "estado": "BA",
+      "cep": "37539-905",
+      "naturalidade": "Salvador - BA"
+    },
+    {
+      "rua": "Rua Alvorada",
+      "numero": 7177,
+      "bairro": "Praia Grande",
+      "cidade": "Recife",
+      "estado": "PE",
+      "cep": "43869-146",
+      "naturalidade": "Recife - PE"
+    },
+    {
+      "rua": "Rua São João",
+      "numero": 6868,
+      "bairro": "Bela Vista",
+      "cidade": "Salvador",
+      "estado": "BA",
+      "cep": "36697-847",
+      "naturalidade": "Salvador - BA"
+    },
+    {
+      "rua": "Rua Marechal Deodoro",
+      "numero": 988,
+      "bairro": "Copacabana",
+      "cidade": "Belém",
+      "estado": "PA",
+      "cep": "93902-375",
+      "naturalidade": "Belém - PA"
+    },
+    {
+      "rua": "Rua Sete de Setembro",
+      "numero": 8464,
+      "bairro": "Santa Luzia",
+      "cidade": "Porto Alegre",
+      "estado": "RS",
+      "cep": "93187-240",
+      "naturalidade": "Porto Alegre - RS"
+    },
+    {
+      "rua": "Rua das Orquídeas",
+      "numero": 6229,
+      "bairro": "Centro",
+      "cidade": "Manaus",
+      "estado": "AM",
+      "cep": "61247-541",
+      "naturalidade": "Manaus - AM"
+    },
+    {
+      "rua": "Rua da Paz",
+      "numero": 7238,
+      "bairro": "Itaim Bibi",
+      "cidade": "Porto Alegre",
+      "estado": "RS",
+      "cep": "48074-288",
+      "naturalidade": "Porto Alegre - RS"
+    },
+    {
+      "rua": "Rua do Comércio",
+      "numero": 6073,
+      "bairro": "Centro",
+      "cidade": "Aracaju",
+      "estado": "SE",
+      "cep": "25542-943",
+      "naturalidade": "Aracaju - SE"
+    },
+    {
+      "rua": "Rua Santo Antônio",
+      "numero": 572,
+      "bairro": "Pinheiros",
+      "cidade": "Florianópolis",
+      "estado": "SC",
+      "cep": "65056-921",
+      "naturalidade": "Florianópolis - SC"
+    },
+    {
+      "rua": "Rua das Palmeiras",
+      "numero": 5948,
+      "bairro": "Copacabana",
+      "cidade": "Belém",
+      "estado": "PA",
+      "cep": "91403-191",
+      "naturalidade": "Belém - PA"
+    },
+    {
+      "rua": "Rua Tiradentes",
+      "numero": 550,
+      "bairro": "Vila Isabel",
+      "cidade": "Fortaleza",
+      "estado": "CE",
+      "cep": "30992-282",
+      "naturalidade": "Fortaleza - CE"
+    },
+    {
+      "rua": "Rua XV de Novembro",
+      "numero": 5598,
+      "bairro": "Moema",
+      "cidade": "Campinas",
+      "estado": "SP",
+      "cep": "45824-837",
+      "naturalidade": "Campinas - SP"
+    },
+    {
+      "rua": "Rua Santo Antônio",
+      "numero": 5076,
+      "bairro": "Itaim Bibi",
+      "cidade": "Natal",
+      "estado": "RN",
+      "cep": "49869-314",
+      "naturalidade": "Natal - RN"
+    },
+    {
+      "rua": "Rua José Bonifácio",
+      "numero": 9903,
+      "bairro": "Vila Isabel",
+      "cidade": "Goiânia",
+      "estado": "GO",
+      "cep": "39551-327",
+      "naturalidade": "Goiânia - GO"
+    },
+    {
+      "rua": "Rua Dom Pedro II",
+      "numero": 2900,
+      "bairro": "Boa Vista",
+      "cidade": "Aracaju",
+      "estado": "SE",
+      "cep": "64582-161",
+      "naturalidade": "Aracaju - SE"
+    },
+    {
+      "rua": "Rua das Acácias",
+      "numero": 9673,
+      "bairro": "Santa Luzia",
+      "cidade": "Recife",
+      "estado": "PE",
+      "cep": "75979-541",
+      "naturalidade": "Recife - PE"
+    },
+    {
+      "rua": "Rua Santo Antônio",
+      "numero": 3115,
+      "bairro": "Pinheiros",
+      "cidade": "Porto Alegre",
+      "estado": "RS",
+      "cep": "97500-570",
+      "naturalidade": "Porto Alegre - RS"
+    },
+    {
+      "rua": "Rua XV de Novembro",
+      "numero": 2088,
+      "bairro": "São Cristóvão",
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "cep": "12779-321",
+      "naturalidade": "Rio de Janeiro - RJ"
+    },
+    {
+      "rua": "Rua da Liberdade",
+      "numero": 5953,
+      "bairro": "Vila Isabel",
+      "cidade": "Maceió",
+      "estado": "AL",
+      "cep": "79872-255",
+      "naturalidade": "Maceió - AL"
+    },
+    {
+      "rua": "Rua José Bonifácio",
+      "numero": 7554,
+      "bairro": "São Cristóvão",
+      "cidade": "Manaus",
+      "estado": "AM",
+      "cep": "25778-514",
+      "naturalidade": "Manaus - AM"
+    },
+    {
+      "rua": "Rua Rio Branco",
+      "numero": 3594,
+      "bairro": "Bela Vista",
+      "cidade": "Recife",
+      "estado": "PE",
+      "cep": "49158-958",
+      "naturalidade": "Recife - PE"
+    },
+    {
+      "rua": "Rua Sete de Setembro",
+      "numero": 4962,
+      "bairro": "São José",
+      "cidade": "Brasília",
+      "estado": "DF",
+      "cep": "61546-222",
+      "naturalidade": "Brasília - DF"
+    },
+    {
+      "rua": "Rua das Flores",
+      "numero": 7691,
+      "bairro": "Vila Mariana",
+      "cidade": "Manaus",
+      "estado": "AM",
+      "cep": "22312-188",
+      "naturalidade": "Manaus - AM"
+    },
+    {
+      "rua": "Rua das Palmeiras",
+      "numero": 6037,
+      "bairro": "Jardim América",
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "cep": "85069-825",
+      "naturalidade": "São Paulo - SP"
+    },
+    {
+      "rua": "Rua da Liberdade",
+      "numero": 6381,
+      "bairro": "Jardim América",
+      "cidade": "Belém",
+      "estado": "PA",
+      "cep": "70769-641",
+      "naturalidade": "Belém - PA"
+    },
+    {
+      "rua": "Rua Marechal Deodoro",
+      "numero": 9335,
+      "bairro": "Vila Nova",
+      "cidade": "Campo Grande",
+      "estado": "MS",
+      "cep": "59543-292",
+      "naturalidade": "Campo Grande - MS"
+    },
+    {
+      "rua": "Rua Marechal Deodoro",
+      "numero": 611,
+      "bairro": "Cidade Nova",
+      "cidade": "Curitiba",
+      "estado": "PR",
+      "cep": "12324-793",
+      "naturalidade": "Curitiba - PR"
+    },
+    {
+      "rua": "Rua da Paz",
+      "numero": 7711,
+      "bairro": "Santa Luzia",
+      "cidade": "Curitiba",
+      "estado": "PR",
+      "cep": "79451-648",
+      "naturalidade": "Curitiba - PR"
+    },
+    {
+      "rua": "Rua XV de Novembro",
+      "numero": 3858,
+      "bairro": "Centro",
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "cep": "70287-769",
+      "naturalidade": "Rio de Janeiro - RJ"
+    },
+    {
+      "rua": "Rua das Andorinhas",
+      "numero": 8346,
+      "bairro": "Vila Nova",
+      "cidade": "Salvador",
+      "estado": "BA",
+      "cep": "92397-271",
+      "naturalidade": "Salvador - BA"
+    },
+    {
+      "rua": "Rua José Bonifácio",
+      "numero": 7630,
+      "bairro": "Moema",
+      "ciente": "Recife",
+      "estado": "PE",
+      "cep": "66881-213",
+      "naturalidade": "Recife - PE"
+    },
+    {
+      "rua": "Rua da Paz",
+      "numero": 6248,
+      "bairro": "Cidade Nova",
+      "cidade": "Fortaleza",
+      "estado": "CE",
+      "cep": "40495-446",
+      "naturalidade": "Fortaleza - CE"
+    },
+    {
+      "rua": "Rua das Andorinhas",
+      "numero": 9286,
+      "bairro": "Santa Cecília",
+      "cidade": "Natal",
+      "estado": "RN",
+      "cep": "40447-581",
+      "naturalidade": "Natal - RN"
+    },
+    {
+      "rua": "Rua das Palmeiras",
+      "numero": 172,
+      "bairro": "Boa Vista",
+      "cidade": "Florianópolis",
+      "estado": "SC",
+      "cep": "50700-463",
+      "naturalidade": "Florianópolis - SC"
+    },
+    {
+      "rua": "Rua Tiradentes",
+      "numero": 1743,
+      "bairro": "Campo Grande",
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "cep": "37282-797",
+      "naturalidade": "São Paulo - SP"
+    },
+    {
+      "rua": "Rua Rio Branco",
+      "numero": 1602,
+      "bairro": "Pinheiros",
+      "cidade": "Goiânia",
+      "estado": "GO",
+      "cep": "36816-799",
+      "naturalidade": "Goiânia - GO"
+    },
+    {
+      "rua": "Rua Alvorada",
+      "numero": 6401,
+      "bairro": "Santa Luzia",
+      "cidade": "Natal",
+      "estado": "RN",
+      "cep": "35009-804",
+      "naturalidade": "Natal - RN"
+    },
+    {
+      "rua": "Rua Marechal Deodoro",
+      "numero": 4935,
+      "bairro": "Barra Funda",
+      "cidade": "Manaus",
+      "estado": "AM",
+      "cep": "23804-343",
+      "naturalidade": "Manaus - AM"
+    },
+    {
+      "rua": "Rua São João",
+      "numero": 3982,
+      "bairro": "Praia Grande",
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "cep": "48102-747",
+      "naturalidade": "Rio de Janeiro - RJ"
+    },
+    {
+      "rua": "Rua José Bonifácio",
+      "numero": 8757,
+      "bairro": "Vila Isabel",
+      "cidade": "Maceió",
+      "estado": "AL",
+      "cep": "44594-887",
+      "naturalidade": "Maceió - AL"
+    },
+    {
+      "rua": "Rua Marechal Deodoro",
+      "numero": 4487,
+      "bairro": "São José",
+      "cidade": "Maceió",
+      "estado": "AL",
+      "cep": "77161-446",
+      "naturalidade": "Maceió - AL"
+    },
+    {
+      "rua": "Rua das Palmeiras",
+      "numero": 8423,
+      "bairro": "Santa Luzia",
+      "cidade": "Aracaju",
+      "estado": "SE",
+      "cep": "78353-845",
+      "naturalidade": "Aracaju - SE"
+    },
+    {
+      "rua": "Rua José Bonifácio",
+      "numero": 8881,
+      "bairro": "Moema",
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "cep": "19711-552",
+      "naturalidade": "São Paulo - SP"
+    },
+    {
+      "rua": "Rua Rio Branco",
+      "numero": 1144,
+      "bairro": "Cidade Nova",
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "cep": "83695-953",
+      "naturalidade": "Rio de Janeiro - RJ"
+    },
+    {
+      "rua": "Rua Campos Sales",
+      "numero": 8308,
+      "bairro": "Santa Luzia",
+      "cidade": "Maceió",
+      "estado": "AL",
+      "cep": "76019-662",
+      "naturalidade": "Maceió - AL"
+    },
+    {
+      "rua": "Rua José Bonifácio",
+      "numero": 6491,
+      "bairro": "São José",
+      "cidade": "Recife",
+      "estado": "PE",
+      "cep": "55345-640",
+      "naturalidade": "Recife - PE"
+    },
+    {
+      "rua": "Rua Alvorada",
+      "numero": 6968,
+      "bairro": "Itaim Bibi",
+      "cidade": "Florianópolis",
+      "estado": "SC",
+      "cep": "21135-300",
+      "naturalidade": "Florianópolis - SC"
+    },
+    {
+      "rua": "Rua das Andorinhas",
+      "numero": 5318,
+      "bairro": "Jardim das Flores",
+      "cidade": "Campo Grande",
+      "estado": "MS",
+      "cep": "88771-708",
+      "naturalidade": "Campo Grande - MS"
+    },
+    {
+      "rua": "Rua XV de Novembro",
+      "numero": 7014,
+      "bairro": "São Cristóvão",
+      "cidade": "João Pessoa",
+      "estado": "PB",
+      "cep": "47209-717",
+      "naturalidade": "João Pessoa - PB"
+    },
+    {
+      "rua": "Rua Dom Pedro II",
+      "numero": 6426,
+      "bairro": "Barra Funda",
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "cep": "23468-557",
+      "naturalidade": "São Paulo - SP"
+    },
+    {
+      "rua": "Rua da Paz",
+      "numero": 7239,
+      "bairro": "Bela Vista",
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "cep": "14233-220",
+      "naturalidade": "São Paulo - SP"
+    },
+    {
+      "rua": "Rua da Liberdade",
+      "numero": 4919,
+      "bairro": "Jardim das Flores",
+      "cidade": "Cuiabá",
+      "estado": "MT",
+      "cep": "54209-890",
+      "naturalidade": "Cuiabá - MT"
+    },
+    {
+      "rua": "Rua Dom Pedro II",
+      "numero": 9928,
+      "bairro": "Copacabana",
+      "cidade": "Goiânia",
+      "estado": "GO",
+      "cep": "58654-128",
+      "naturalidade": "Goiânia - GO"
+    },
+    {
+      "rua": "Rua Santo Antônio",
+      "numero": 9243,
+      "bairro": "Jardim das Flores",
+      "cidade": "Aracaju",
+      "estado": "SE",
+      "cep": "76972-382",
+      "naturalidade": "Aracaju - SE"
+    },
+    {
+      "rua": "Rua José Bonifácio",
+      "numero": 4849,
+      "bairro": "Barra Funda",
+      "cidade": "Belém",
+      "estado": "PA",
+      "cep": "43849-824",
+      "naturalidade": "Belém - PA"
+    },
+    {
+      "rua": "Rua do Sol",
+      "numero": 5605,
+      "bairro": "Vila Nova",
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "cep": "22682-404",
+      "naturalidade": "Rio de Janeiro - RJ"
+    },
+    {
+      "rua": "Rua da Liberdade",
+      "numero": 99,
+      "bairro": "Barra Funda",
+      "cidade": "Fortaleza",
+      "estado": "CE",
+      "cep": "81276-152",
+      "naturalidade": "Fortaleza - CE"
+    },
+    {
+      "rua": "Rua Marechal Deodoro",
+      "numero": 240,
+      "bairro": "Itaim Bibi",
+      "cidade": "Porto Alegre",
+      "estado": "RS",
+      "cep": "33213-895",
+      "naturalidade": "Porto Alegre - RS"
+    },
+    {
+      "rua": "Rua Campos Sales",
+      "numero": 7772,
+      "bairro": "Moema",
+      "cidade": "Campinas",
+      "estado": "SP",
+      "cep": "79884-970",
+      "naturalidade": "Campinas - SP"
+    },
+    {
+      "rua": "Rua das Flores",
+      "numero": 9495,
+      "bairro": "Centro",
+      "cidade": "Manaus",
+      "estado": "AM",
+      "cep": "73858-262",
+      "naturalidade": "Manaus - AM"
+    },
+    {
+      "rua": "Rua Rio Branco",
+      "numero": 386,
+      "bairro": "Cidade Nova",
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "cep": "64174-545",
+      "naturalidade": "Rio de Janeiro - RJ"
+    },
+    {
+      "rua": "Rua da Paz",
+      "numero": 6960,
+      "bairro": "São Cristóvão",
+      "cidade": "Belém",
+      "estado": "PA",
+      "cep": "79282-626",
+      "naturalidade": "Belém - PA"
+    },
+    {
+      "rua": "Rua Campos Sales",
+      "numero": 7915,
+      "bairro": "Cidade Nova",
+      "cidade": "Manaus",
+      "estado": "AM",
+      "cep": "90896-958",
+      "naturalidade": "Manaus - AM"
+    },
+    {
+      "rua": "Rua das Acácias",
+      "numero": 2720,
+      "bairro": "Praia Grande",
+      "ciente": "Manaus",
+      "estado": "AM",
+      "cep": "26637-602",
+      "naturalidade": "Manaus - AM"
+    },
+    {
+      "rua": "Rua Campos Sales",
+      "numero": 6434,
+      "bairro": "Vila Nova",
+      "cidade": "Salvador",
+      "estado": "BA",
+      "cep": "54790-872",
+      "naturalidade": "Salvador - BA"
+    },
+    {
+      "rua": "Rua das Andorinhas",
+      "numero": 5703,
+      "bairro": "Vila Isabel",
+      "cidade": "Recife",
+      "estado": "PE",
+      "cep": "64963-248",
+      "naturalidade": "Recife - PE"
+    },
+    {
+      "rua": "Rua das Andorinhas",
+      "numero": 6906,
+      "bairro": "Copacabana",
+      "cidade": "Maceió",
+      "estado": "AL",
+      "cep": "25451-272",
+      "naturalidade": "Maceió - AL"
+    },
+    {
+      "rua": "Rua Sete de Setembro",
+      "numero": 4519,
+      "bairro": "Boa Vista",
+      "cidade": "Florianópolis",
+      "estado": "SC",
+      "cep": "72787-826",
+      "naturalidade": "Florianópolis - SC"
+    },
+    {
+      "rua": "Rua do Comércio",
+      "numero": 413,
+      "bairro": "Moema",
+      "cidade": "Campo Grande",
+      "estado": "MS",
+      "cep": "20569-737",
+      "naturalidade": "Campo Grande - MS"
+    },
+    {
+      "rua": "Rua das Palmeiras",
+      "numero": 5264,
+      "bairro": "Boa Vista",
+      "cidade": "Manaus",
+      "estado": "AM",
+      "cep": "43953-250",
+      "naturalidade": "Manaus - AM"
+    },
+    {
+      "rua": "Rua Sete de Setembro",
+      "numero": 1021,
+      "bairro": "Boa Vista",
+      "cidade": "Campo Grande",
+      "estado": "MS",
+      "cep": "17976-861",
+      "naturalidade": "Campo Grande - MS"
+    },
+    {
+      "rua": "Rua das Acácias",
+      "numero": 6136,
+      "bairro": "Santa Luzia",
+      "cidade": "Manaus",
+      "estado": "AM",
+      "cep": "96838-439",
+      "naturalidade": "Manaus - AM"
+    },
+    {
+      "rua": "Rua XV de Novembro",
+      "numero": 3576,
+      "bairro": "Praia Grande",
+      "cidade": "Cuiabá",
+      "estado": "MT",
+      "cep": "56707-462",
+      "naturalidade": "Cuiabá - MT"
+    },
+    {
+      "rua": "Rua das Palmeiras",
+      "numero": 3699,
+      "bairro": "Boa Vista",
+      "cidade": "Manaus",
+      "estado": "AM",
+      "cep": "76556-263",
+      "naturalidade": "Manaus - AM"
+    },
+    {
+      "rua": "Rua Alvorada",
+      "numero": 4442,
+      "bairro": "Barra Funda",
+      "cidade": "Fortaleza",
+      "estado": "CE",
+      "cep": "69097-436",
+      "naturalidade": "Fortaleza - CE"
+    },
+    {
+      "rua": "Rua das Orquídeas",
+      "numero": 3973,
+      "bairro": "Pinheiros",
+      "cidade": "Fortaleza",
+      "estado": "CE",
+      "cep": "74118-716",
+      "naturalidade": "Fortaleza - CE"
+    },
+    {
+      "rua": "Rua Tiradentes",
+      "numero": 8995,
+      "bairro": "Itaim Bibi",
+      "cidade": "Porto Alegre",
+      "estado": "RS",
+      "cep": "74077-406",
+      "naturalidade": "Porto Alegre - RS"
+    },
+    {
+      "rua": "Rua das Flores",
+      "numero": 6896,
+      "bairro": "São José",
+      "cidade": "Fortaleza",
+      "estado": "CE",
+      "cep": "63369-768",
+      "naturalidade": "Fortaleza - CE"
+    },
+    {
+      "rua": "Rua XV de Novembro",
+      "numero": 5083,
+      "bairro": "Santa Cecília",
+      "cidade": "Belém",
+      "estado": "PA",
+      "cep": "36011-356",
+      "naturalidade": "Belém - PA"
+    },
+    {
+      "rua": "Rua do Sol",
+      "numero": 5937,
+      "bairro": "Praia Grande",
+      "cidade": "Porto Alegre",
+      "estado": "RS",
+      "cep": "49178-136",
+      "naturalidade": "Porto Alegre - RS"
+    },
+    {
+      "rua": "Rua XV de Novembro",
+      "numero": 9037,
+      "bairro": "Jardim das Flores",
+      "cidade": "Belém",
+      "estado": "PA",
+      "cep": "19052-926",
+      "naturalidade": "Belém - PA"
+    },
+    {
+      "rua": "Rua do Comércio",
+      "numero": 2113,
+      "bairro": "Copacabana",
+      "cidade": "Belo Horizonte",
+      "estado": "MG",
+      "cep": "39412-857",
+      "naturalidade": "Belo Horizonte - MG"
+    },
+    {
+      "rua": "Rua das Flores",
+      "numero": 648,
+      "bairro": "São Cristóvão",
+      "cidade": "Fortaleza",
+      "estado": "CE",
+      "cep": "22904-256",
+      "naturalidade": "Fortaleza - CE"
+    },
+    {
+      "rua": "Rua Campos Sales",
+      "numero": 1479,
+      "bairro": "Vila Mariana",
+      "cidade": "Fortaleza",
+      "estado": "CE",
+      "cep": "58866-175",
+      "naturalidade": "Fortaleza - CE"
+    },
+    {
+      "rua": "Rua do Comércio",
+      "numero": 7733,
+      "bairro": "Jardim América",
+      "cidade": "Aracaju",
+      "estado": "SE",
+      "cep": "96744-953",
+      "naturalidade": "Aracaju - SE"
+    },
+    {
+      "rua": "Rua das Palmeiras",
+      "numero": 143,
+      "bairro": "Barra Funda",
+      "cidade": "Belém",
+      "estado": "PA",
+      "cep": "31316-194",
+      "naturalidade": "Belém - PA"
+    },
+    {
+      "rua": "Rua da Liberdade",
+      "numero": 7310,
+      "bairro": "Centro",
+      "cidade": "Campo Grande",
+      "estado": "MS",
+      "cep": "61360-896",
+      "naturalidade": "Campo Grande - MS"
+    },
+    {
+      "rua": "Rua Tiradentes",
+      "numero": 7161,
+      "bairro": "Itaim Bibi",
+      "cidade": "Recife",
+      "estado": "PE",
+      "cep": "49983-765",
+      "naturalidade": "Recife - PE"
+    },
+    {
+      "rua": "Rua XV de Novembro",
+      "numero": 6048,
+      "bairro": "Boa Vista",
+      "cidade": "Aracaju",
+      "estado": "SE",
+      "cep": "86547-104",
+      "naturalidade": "Aracaju - SE"
+    },
+    {
+      "rua": "Rua Alvorada",
+      "numero": 9007,
+      "bairro": "São José",
+      "cidade": "Natal",
+      "estado": "RN",
+      "cep": "84427-104",
+      "naturalidade": "Natal - RN"
+    },
+    {
+      "rua": "Rua do Comércio",
+      "numero": 7246,
+      "bairro": "Moema",
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "cep": "20170-475",
+      "naturalidade": "Rio de Janeiro - RJ"
+    },
+    {
+      "rua": "Rua do Comércio",
+      "numero": 8807,
+      "bairro": "Itaim Bibi",
+      "cidade": "Goiânia",
+      "estado": "GO",
+      "cep": "53073-426",
+      "naturalidade": "Goiânia - GO"
+    },
+    {
+      "rua": "Rua São João",
+      "numero": 5197,
+      "bairro": "Bela Vista",
+      "cidade": "Florianópolis",
+      "estado": "SC",
+      "cep": "72619-190",
+      "naturalidade": "Florianópolis - SC"
+    },
+    {
+      "rua": "Rua da Liberdade",
+      "numero": 2685,
+      "bairro": "Bela Vista",
+      "cidade": "Belo Horizonte",
+      "estado": "MG",
+      "cep": "18233-462",
+      "naturalidade": "Belo Horizonte - MG"
+    },
+    {
+      "rua": "Rua São João",
+      "numero": 418,
+      "bairro": "Bela Vista",
+      "cidade": "Porto Alegre",
+      "estado": "RS",
+      "cep": "65315-645",
+      "naturalidade": "Porto Alegre - RS"
+    },
+    {
+      "rua": "Rua das Flores",
+      "numero": 8927,
+      "bairro": "Itaim Bibi",
+      "cidade": "Campinas",
+      "estado": "SP",
+      "cep": "62546-878",
+      "naturalidade": "Campinas - SP"
+    },
+    {
+      "rua": "Rua do Comércio",
+      "numero": 9375,
+      "bairro": "Vila Nova",
+      "cidade": "Porto Alegre",
+      "estado": "RS",
+      "cep": "11239-460",
+      "naturalidade": "Porto Alegre - RS"
+    },
+    {
+      "rua": "Rua do Comércio",
+      "numero": 3567,
+      "bairro": "Barra Funda",
+      "cidade": "Porto Alegre",
+      "estado": "RS",
+      "cep": "33348-570",
+      "naturalidade": "Porto Alegre - RS"
+    },
+    {
+      "rua": "Rua XV de Novembro",
+      "numero": 9567,
+      "bairro": "Santa Cecília",
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "cep": "36404-733",
+      "naturalidade": "São Paulo - SP"
+    },
+    {
+      "rua": "Rua das Flores",
+      "numero": 5584,
+      "bairro": "Vila Mariana",
+      "cidade": "Maceió",
+      "estado": "AL",
+      "cep": "30310-843",
+      "naturalidade": "Maceió - AL"
+    },
+    {
+      "rua": "Rua São João",
+      "numero": 9697,
+      "bairro": "Boa Vista",
+      "cidade": "Maceió",
+      "estado": "AL",
+      "cep": "35627-128",
+      "naturalidade": "Maceió - AL"
+    },
+    {
+      "rua": "Rua Alvorada",
+      "numero": 3494,
+      "bairro": "Vila Isabel",
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "cep": "22861-866",
+      "naturalidade": "Rio de Janeiro - RJ"
+    },
+    {
+      "rua": "Rua das Andorinhas",
+      "numero": 4349,
+      "bairro": "Santa Cecília",
+      "cidade": "Natal",
+      "estado": "RN",
+      "cep": "31166-376",
+      "naturalidade": "Natal - RN"
+    },
+    {
+      "rua": "Rua José Bonifácio",
+      "numero": 8783,
+      "bairro": "Campo Grande",
+      "cidade": "Curitiba",
+      "estado": "PR",
+      "cep": "89648-819",
+      "naturalidade": "Curitiba - PR"
+    },
+    {
+      "rua": "Rua Campos Sales",
+      "numero": 4905,
+      "bairro": "Praia Grande",
+      "cidade": "Brasília",
+      "estado": "DF",
+      "cep": "48831-412",
+      "naturalidade": "Brasília - DF"
+    },
+    {
+      "rua": "Rua das Acácias",
+      "numero": 359,
+      "bairro": "Boa Vista",
+      "cidade": "Florianópolis",
+      "estado": "SC",
+      "cep": "26232-209",
+      "naturalidade": "Florianópolis - SC"
+    },
+    {
+      "rua": "Rua José Bonifácio",
+      "numero": 4210,
+      "bairro": "Barra Funda",
+      "cidade": "Maceió",
+      "estado": "AL",
+      "cep": "59005-254",
+      "naturalidade": "Maceió - AL"
+    },
+    {
+      "rua": "Rua São João",
+      "numero": 9193,
+      "bairro": "Cidade Nova",
+      "cidade": "Fortaleza",
+      "estado": "CE",
+      "cep": "96015-935",
+      "naturalidade": "Fortaleza - CE"
+    },
+    {
+      "rua": "Rua José Bonifácio",
+      "numero": 2304,
+      "bairro": "Moema",
+      "cidade": "Cuiabá",
+      "estado": "MT",
+      "cep": "57791-205",
+      "naturalidade": "Cuiabá - MT"
+    },
+    {
+      "rua": "Rua das Flores",
+      "numero": 6388,
+      "bairro": "Campo Grande",
+      "cidade": "Fortaleza",
+      "estado": "CE",
+      "cep": "22717-412",
+      "naturalidade": "Fortaleza - CE"
+    },
+    {
+      "rua": "Rua José Bonifácio",
+      "numero": 9946,
+      "bairro": "Copacabana",
+      "cidade": "Recife",
+      "estado": "PE",
+      "cep": "47547-166",
+      "naturalidade": "Recife - PE"
+    },
+    {
+      "rua": "Rua José Bonifácio",
+      "numero": 5608,
+      "bairro": "Praia Grande",
+      "cidade": "Aracaju",
+      "estado": "SE",
+      "cep": "48614-469",
+      "naturalidade": "Aracaju - SE"
+    },
+    {
+      "rua": "Rua José Bonifácio",
+      "numero": 9171,
+      "bairro": "Santa Luzia",
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "cep": "93582-254",
+      "naturalidade": "Rio de Janeiro - RJ"
+    },
+    {
+      "rua": "Rua das Palmeiras",
+      "numero": 2292,
+      "bairro": "Itaim Bibi",
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "cep": "47650-788",
+      "naturalidade": "Rio de Janeiro - RJ"
+    },
+    {
+      "rua": "Rua São João",
+      "numero": 3955,
+      "bairro": "Vila Nova",
+      "cidade": "Aracaju",
+      "estado": "SE",
+      "cep": "71773-286",
+      "naturalidade": "Aracaju - SE"
+    },
+    {
+      "rua": "Rua das Andorinhas",
+      "numero": 7691,
+      "bairro": "Vila Mariana",
+      "cidade": "Campo Grande",
+      "estado": "MS",
+      "cep": "98932-519",
+      "naturalidade": "Campo Grande - MS"
+    },
+    {
+      "rua": "Rua das Flores",
+      "numero": 4217,
+      "bairro": "Centro",
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "cep": "30749-202",
+      "naturalidade": "São Paulo - SP"
+    },
+    {
+      "rua": "Rua da Liberdade",
+      "numero": 1886,
+      "bairro": "Vila Nova",
+      "cidade": "Cuiabá",
+      "estado": "MT",
+      "cep": "12800-407",
+      "naturalidade": "Cuiabá - MT"
+    },
+    {
+      "rua": "Rua Sete de Setembro",
+      "numero": 6166,
+      "bairro": "Santa Luzia",
+      "cidade": "Maceió",
+      "estado": "AL",
+      "cep": "59535-900",
+      "naturalidade": "Maceió - AL"
+    },
+    {
+      "rua": "Rua XV de Novembro",
+      "numero": 8132,
+      "bairro": "São Cristóvão",
+      "cidade": "Recife",
+      "estado": "PE",
+      "cep": "20928-150",
+      "naturalidade": "Recife - PE"
+    },
+    {
+      "rua": "Rua da Paz",
+      "numero": 9997,
+      "bairro": "Copacabana",
+      "cidade": "Fortaleza",
+      "estado": "CE",
+      "cep": "21522-974",
+      "naturalidade": "Fortaleza - CE"
+    },
+    {
+      "rua": "Rua Santo Antônio",
+      "numero": 9344,
+      "bairro": "Itaim Bibi",
+      "cidade": "Goiânia",
+      "estado": "GO",
+      "cep": "22944-256",
+      "naturalidade": "Goiânia - GO"
+    },
+    {
+      "rua": "Rua Tiradentes",
+      "numero": 6682,
+      "bairro": "Vila Isabel",
+      "cidade": "Brasília",
+      "estado": "DF",
+      "cep": "55726-944",
+      "naturalidade": "Brasília - DF"
+    },
+    {
+      "rua": "Rua Campos Sales",
+      "numero": 8934,
+      "bairro": "São Cristóvão",
+      "cidade": "Porto Alegre",
+      "estado": "RS",
+      "cep": "79490-220",
+      "naturalidade": "Porto Alegre - RS"
+    },
+    {
+      "rua": "Rua XV de Novembro",
+      "numero": 7360,
+      "bairro": "Boa Vista",
+      "cidade": "Manaus",
+      "estado": "AM",
+      "cep": "75715-250",
+      "naturalidade": "Manaus - AM"
+    },
+    {
+      "rua": "Rua da Liberdade",
+      "numero": 1921,
+      "bairro": "São José",
+      "cidade": "Cuiabá",
+      "estado": "MT",
+      "cep": "40629-386",
+      "naturalidade": "Cuiabá - MT"
+    },
+    {
+      "rua": "Rua das Acácias",
+      "numero": 1895,
+      "bairro": "Cidade Nova",
+      "cidade": "Manaus",
+      "estado": "AM",
+      "cep": "67857-451",
+      "naturalidade": "Manaus - AM"
+    },
+    {
+      "rua": "Rua das Orquídeas",
+      "numero": 5063,
+      "bairro": "Vila Mariana",
+      "cidade": "Maceió",
+      "estado": "AL",
+      "cep": "32713-643",
+      "naturalidade": "Maceió - AL"
+    },
+    {
+      "rua": "Rua Alvorada",
+      "numero": 8205,
+      "bairro": "Santa Luzia",
+      "cidade": "Natal",
+      "estado": "RN",
+      "cep": "39832-925",
+      "naturalidade": "Natal - RN"
+    },
+    {
+      "rua": "Rua das Andorinhas",
+      "numero": 7681,
+      "bairro": "Copacabana",
+      "cidade": "João Pessoa",
+      "estado": "PB",
+      "cep": "36808-362",
+      "naturalidade": "João Pessoa - PB"
+    },
+    {
+      "rua": "Rua das Andorinhas",
+      "numero": 6297,
+      "bairro": "Moema",
+      "cidade": "Curitiba",
+      "estado": "PR",
+      "cep": "63227-300",
+      "naturalidade": "Curitiba - PR"
+    },
+    {
+      "rua": "Rua das Flores",
+      "numero": 1921,
+      "bairro": "Campo Grande",
+      "cidade": "João Pessoa",
+      "estado": "PB",
+      "cep": "86814-624",
+      "naturalidade": "João Pessoa - PB"
+    },
+    {
+      "rua": "Rua Sete de Setembro",
+      "numero": 5992,
+      "bairro": "São José",
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "cep": "32994-863",
+      "naturalidade": "São Paulo - SP"
+    },
+    {
+      "rua": "Rua da Paz",
+      "numero": 7921,
+      "bairro": "Jardim América",
+      "cidade": "Maceió",
+      "estado": "AL",
+      "cep": "20114-525",
+      "naturalidade": "Maceió - AL"
+    },
+    {
+      "rua": "Rua do Sol",
+      "numero": 4545,
+      "bairro": "Santa Cecília",
+      "cidade": "Campo Grande",
+      "estado": "MS",
+      "cep": "78041-767",
+      "naturalidade": "Campo Grande - MS"
+    },
+    {
+      "rua": "Rua São João",
+      "numero": 4247,
+      "bairro": "São Cristóvão",
+      "cidade": "Manaus",
+      "estado": "AM",
+      "cep": "24019-154",
+      "naturalidade": "Manaus - AM"
+    },
+    {
+      "rua": "Rua Marechal Deodoro",
+      "numero": 3973,
+      "bairro": "Cidade Nova",
+      "cidade": "Curitiba",
+      "estado": "PR",
+      "cep": "26727-902",
+      "naturalidade": "Curitiba - PR"
+    },
+    {
+      "rua": "Rua das Orquídeas",
+      "numero": 5205,
+      "bairro": "Vila Mariana",
+      "cidade": "Florianópolis",
+      "estado": "SC",
+      "cep": "25109-680",
+      "naturalidade": "Florianópolis - SC"
+    },
+    {
+      "rua": "Rua Santo Antônio",
+      "numero": 4771,
+      "bairro": "Campo Grande",
+      "cidade": "Porto Alegre",
+      "estado": "RS",
+      "cep": "42138-376",
+      "naturalidade": "Porto Alegre - RS"
+    },
+    {
+      "rua": "Rua José Bonifácio",
+      "numero": 5791,
+      "bairro": "Barra Funda",
+      "cidade": "Campo Grande",
+      "estado": "MS",
+      "cep": "98259-660",
+      "naturalidade": "Campo Grande - MS"
+    },
+    {
+      "rua": "Rua das Orquídeas",
+      "numero": 2747,
+      "bairro": "Centro",
+      "cidade": "João Pessoa",
+      "estado": "PB",
+      "cep": "12395-882",
+      "naturalidade": "João Pessoa - PB"
+    },
+    {
+      "rua": "Rua Rio Branco",
+      "numero": 775,
+      "bairro": "Campo Grande",
+      "cidade": "Porto Alegre",
+      "estado": "RS",
+      "cep": "82198-933",
+      "naturalidade": "Porto Alegre - RS"
+    },
+    {
+      "rua": "Rua Sete de Setembro",
+      "numero": 8339,
+      "bairro": "Copacabana",
+      "cidade": "Brasília",
+      "estado": "DF",
+      "cep": "73804-568",
+      "naturalidade": "Brasília - DF"
+    },
+    {
+      "rua": "Rua XV de Novembro",
+      "numero": 6000,
+      "bairro": "Vila Mariana",
+      "cidade": "Goiânia",
+      "estado": "GO",
+      "cep": "70727-801",
+      "naturalidade": "Goiânia - GO"
+    },
+    {
+      "rua": "Rua XV de Novembro",
+      "numero": 3753,
+      "bairro": "Santa Cecília",
+      "cidade": "Manaus",
+      "estado": "AM",
+      "cep": "16812-650",
+      "naturalidade": "Manaus - AM"
+    },
+    {
+      "rua": "Rua Tiradentes",
+      "numero": 6609,
+      "bairro": "Itaim Bibi",
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "cep": "93891-616",
+      "naturalidade": "Rio de Janeiro - RJ"
+    },
+    {
+      "rua": "Rua Marechal Deodoro",
+      "numero": 5290,
+      "bairro": "Itaim Bibi",
+      "cidade": "Campo Grande",
+      "estado": "MS",
+      "cep": "86805-512",
+      "naturalidade": "Campo Grande - MS"
+    },
+    {
+      "rua": "Rua Dom Pedro II",
+      "numero": 444,
+      "bairro": "Campo Grande",
+      "cidade": "Maceió",
+      "estado": "AL",
+      "cep": "23514-607",
+      "naturalidade": "Maceió - AL"
+    },
+    {
+      "rua": "Rua das Orquídeas",
+      "numero": 6552,
+      "bairro": "Vila Nova",
+      "cidade": "João Pessoa",
+      "estado": "PB",
+      "cep": "86562-205",
+      "naturalidade": "João Pessoa - PB"
+    },
+    {
+      "rua": "Rua Campos Sales",
+      "numero": 1880,
+      "bairro": "Jardim América",
+      "cidade": "Cuiabá",
+      "estado": "MT",
+      "cep": "20264-808",
+      "naturalidade": "Cuiabá - MT"
+    },
+    {
+      "rua": "Rua das Andorinhas",
+      "numero": 9025,
+      "bairro": "Barra Funda",
+      "cidade": "Belém",
+      "estado": "PA",
+      "cep": "17545-305",
+      "naturalidade": "Belém - PA"
+    },
+    {
+      "rua": "Rua do Sol",
+      "numero": 7113,
+      "bairro": "Vila Nova",
+      "cidade": "Recife",
+      "estado": "PE",
+      "cep": "38709-530",
+      "naturalidade": "Recife - PE"
+    },
+    {
+      "rua": "Rua Santo Antônio",
+      "numero": 4804,
+      "bairro": "Moema",
+      "cidade": "Belém",
+      "estado": "PA",
+      "cep": "30896-946",
+      "naturalidade": "Belém - PA"
+    },
+    {
+      "rua": "Rua das Flores",
+      "numero": 7713,
+      "bairro": "Moema",
+      "cidade": "Belo Horizonte",
+      "estado": "MG",
+      "cep": "29677-282",
+      "naturalidade": "Belo Horizonte - MG"
+    },
+    {
+      "rua": "Rua da Liberdade",
+      "numero": 6592,
+      "bairro": "São Cristóvão",
+      "cidade": "Manaus",
+      "estado": "AM",
+      "cep": "97651-294",
+      "naturalidade": "Manaus - AM"
+    }
+  ]
+}
