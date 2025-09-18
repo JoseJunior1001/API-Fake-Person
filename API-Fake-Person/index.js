@@ -16,7 +16,7 @@ app.get('/pessoa', (req,res) => {
     if (formato ==='sql') {
       const sql = lista.map( p => {
         return `('${p.nomecompleto}', '${p.cpf}', '${p.nomepai}','${p.nomemae}', '${p.data_nascimento}','${p.idade}','${p.enderecofinal}','${p.bairro}','${p.cidade}','${p.estado}','${p.cep}','${p.naturalidade}');`;
-      }).join('\n');
+      }).join(',\n');
 
       res.type('text/plain').send(sql);
     } else {
@@ -28,3 +28,4 @@ app.listen(port, () => {
   console.log(`Rodando em http://localhost:${port}`);
 
 });
+
