@@ -36,7 +36,7 @@ const tel = faker.phone.number('(DD) 9XXXX-XXXX');
 return {
     nomecompleto: `${nome} ${sobrenome}`,
     cpf: cpf(),
-    rg: rg();
+    rg: rg(),
     nomepai: `${nomepai} ${sobrenome}`,
     nomemae: `${nomemae} ${sobrenome}`,
     data_nascimento: gerardtnascimento(idade),
@@ -52,3 +52,4 @@ return {
 
 
 module.exports = gerarpessoa;
+
