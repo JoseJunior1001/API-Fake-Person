@@ -4,6 +4,7 @@ const nomespai = require('../data/nomespai.json');
 const enderecos = require('../data/enderecos.json');
 const nacionalidade = require('../data/nacionalidade.json');
 const sobrenomes = require('../data/sobrenomes.json');
+const nacionalidade = require('../data/nacionalidade.json');
 const cpf = require('gerar-cpf');
 const { faker } = require('@faker-js/faker');
 
@@ -48,11 +49,13 @@ return {
     estado,
     cep,
     naturalidade,   
+    nacionalidade
 };
 }
 
 
 module.exports = gerarpessoa;
+
 
 
 
